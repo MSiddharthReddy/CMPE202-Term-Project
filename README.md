@@ -7,7 +7,7 @@ M. Siddharth Reddy :
               - Pattern : State
 Jayesh Dusseja :
               - XP Value : Simplicity
-              - Pattern : Observer
+              - Pattern : Observer and my wish
 Long Thai Nguyen :
               - XP Value : Respect
               - Pattern : Composite and Decorater
